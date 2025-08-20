@@ -1,0 +1,5 @@
+venv/ 
+__pycache__/ 
+.ipynb_checkpoints/ 
+insightface_model/ 
+face_embedding.txt 
